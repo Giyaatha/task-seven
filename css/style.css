@@ -19,35 +19,6 @@
    justify-content: flex-end !important;
    gap: 16px !important;
  }
-/* body {
-    font-family:'poppins', sans-serif;
-    background:#fafafa
-}
-.nav-item img {
-    max-width: 24px;
-}
-
-.account img {
-    max-width: 30px;
-    padding-right: 10px;
-}
-
-.d-flex .btn{
-    width: 100px !important;
-    padding: 4px;
-}
-
-.card ul li{
-    border: none !important;
-    border-bottom: 0 !important;
- }
-
- .vline{
-    width:2%;
-    height:55px;
-    border-right: 3px dotted #FF6433;
-    margin:0 auto;
-} */
 
 body {
     background-color: #eeeeee;
